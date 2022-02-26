@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meetaww
 - 👀 I’m interested in coding and learning new stuff everyday.
-- 🌱 I’m currently learning Web Developing and Machine Learning & AI.
+- 🌱 I’m currently learning Web Developing and a Machine Learning & AI enthusiast.
 - 💞️ I’m looking to collaborate on 
 - 📫 You can me reach me on --> email : paridameetabhashini@gmail.com
                              --> Linkedin : https://www.linkedin.com/in/meetabhashini-parida-730597212
