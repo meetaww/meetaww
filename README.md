@@ -1,24 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Meetabhashini Parida</h1>
-<h3 align="center">A passionate frontend developer from India who also makes NFTs for fun !</h3>
+<h3 align="center">💻Frontend Developer working with HTML, CSS, ReactJS and a bit of Blockchain</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetaww&label=Profile%20views&color=0e75b6&style=flat" alt="meetaww" /> </p>
 
-- 🔭 I’m currently working on **Javascript and ReactJS**
 
-- 🌱 I’m currently learning **Javascript, ReactJS**
+- 🌱 I’m currently learning **ReactJS** 
 
 - 🤝 I’m looking for help with **building real-world projects**
-
-- 💬 Ask me about **JAVA, Javascript**
 
 - 📫 How to reach me **paridameetabhashini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/meetawwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetawwww" height="30" width="40" /></a>
-  <a href="https://leetcode.com/XANTHERR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@XANTHERR" height="30" width="40" /></a>
+  <a href="https://leetcode.com/XANTHERR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@XANTHERR" height="30" width="40" /></a> 
+<a href="https://twitter.com/meetawwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetawwww" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/meetabhashini-parida-730597212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetabhashini-parida-730597212" height="30" width="40" /></a>
   <a href="https://xanwrites.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@xanwrites" height="30" width="40" /></a>
 
