@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **building real-world projects**
 
-- 📫 How to reach me **paridameetabhashini@gmail.com**
+- 📫 How to reach me **2041016096.meetabhashiniparida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
