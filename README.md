@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Meetabhashini Parida</h1>
-<h3 align="center">💻Frontend Developer working with HTML, CSS, ReactJS and a bit of Blockchain</h3>
+<h3 align="center">💻Frontend Developer working with MERN techstack</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetaww&label=Profile%20views&color=0e75b6&style=flat" alt="meetaww" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS** 
+- 🌱 I’m currently learning **MERN**
 
 - 🤝 I’m looking for help with **building real-world projects**
 
-- 📫 How to reach me **2041016096.meetabhashiniparida@gmail.com**
+- 📫 How to reach me **meetabhashini.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
